@@ -1,5 +1,5 @@
-console.log('Aula de Git.');
+console.log('Aula de Git. Teste');
 
 /**
- * Apenas um teste.
+ * Apenas um teste. Teste.
  */
