@@ -11,3 +11,7 @@ console.log('Aula de Git. Teste');
 /**
  * Outro comentário
  */
+
+/**
+ * Modificação apenas na branch-teste
+ */
