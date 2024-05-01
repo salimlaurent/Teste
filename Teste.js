@@ -7,3 +7,7 @@ console.log('Aula de Git. Teste');
 /**
  * Outra modificação para testar
  */
+
+/**
+ * Outro comentário
+ */
