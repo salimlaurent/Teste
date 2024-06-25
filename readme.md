@@ -23,7 +23,7 @@ git merge
 - mescla ramificações
 
 git branch
-- motra a branch atual
+- mostra a branch atual
 
 git checkout <nome-branch>
 - muda de branch
